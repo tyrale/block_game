@@ -6,6 +6,9 @@ let package = Package(
   platforms: [
     .macOS(.v11)
   ],
+  products: [
+    .executable(name: "tetris", targets: ["Tetris"]),
+  ],
   targets: [
     .executableTarget(
       name: "Tetris",
