@@ -1,0 +1,14 @@
+--allman false
+--indent space
+--indent 2
+--indentcase true
+--lineaftermarks true
+--commas inline
+--enable blankLinesBetweenScopes
+--enable blankLinesBetweenImports
+--disable enumNamespaces
+--disable preferKeyPath
+--disable wrapMultilineStatementBraces
+--disable redundantSelf
+--disable blankLinesAtStartOfScope
+--swiftversion 5.6
